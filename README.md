@@ -14,12 +14,11 @@ To write a program to predict the price of the house and number of occupants in 
 4.Compare actual values and predicted values using a graph (Actual vs Predicted).
 
 ## Program:
-```
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: 
-RegisterNumber:
-
+Developed by: V.SANJAY SRISANTH
+RegisterNumber: 25018855
+```
 */
 
 from sklearn.linear_model import SGDRegressor
